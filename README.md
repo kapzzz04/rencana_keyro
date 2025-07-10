@@ -30,6 +30,7 @@ LIST PELAJARAN PHP :
 - OOP Dasar PHP ( 17 video )
 - MYSQL (seperti rumus nya cara penulisan nya)
 - MVC ( 13 video )
+- composer ( 3 video )
 - laravel 5.8 ( 5 video )
 - codegnaiter 4 ( 16 video )
 - laravel 8 ( 24 video )
