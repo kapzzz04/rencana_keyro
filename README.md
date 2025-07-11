@@ -24,8 +24,46 @@ LIST PEMBELAJARAN SEMENTARA :
 | 8  | **Slideshow / Carousel**          | DOM Manipulation, CSS Transition |
 | 9  | **Aplikasi Konversi Mata Uang**   | DOM, API Fetch                   |
 | 10 | **Weather App (Pakai API Cuaca)** | Fetch API, DOM, Event Handling   |
+-------------------------------------------
+
+Kalau kamu ingin menyelesaikan **10 proyek dalam 1 bulan (30 hari)**, maka kamu harus membagi waktu secara efisien.
+
+---
+
+### 🔢 Pembagian Hari:
+
+* **30 hari ÷ 10 proyek = 3 hari per proyek**
+
+Jadi, kamu harus menyelesaikan **1 proyek setiap 3 hari**.
+
+---
+
+### 📅 Jadwal Rencana (Mulai 20 Oktober 2025):
+
+| No | Proyek                        | Tanggal Mulai | Tanggal Selesai |
+| -- | ----------------------------- | ------------- | --------------- |
+| 1  | To-Do List App                | 20 Okt 2025   | 22 Okt 2025     |
+| 2  | Kalkulator                    | 23 Okt 2025   | 25 Okt 2025     |
+| 3  | Form Validasi                 | 26 Okt 2025   | 28 Okt 2025     |
+| 4  | Landing Page Responsif        | 29 Okt 2025   | 31 Okt 2025     |
+| 5  | Galeri Gambar (Lightbox)      | 1 Nov 2025    | 3 Nov 2025      |
+| 6  | Tebak Angka Game              | 4 Nov 2025    | 6 Nov 2025      |
+| 7  | Stopwatch / Timer             | 7 Nov 2025    | 9 Nov 2025      |
+| 8  | Slideshow / Carousel          | 10 Nov 2025   | 12 Nov 2025     |
+| 9  | Aplikasi Konversi Mata Uang   | 13 Nov 2025   | 15 Nov 2025     |
+| 10 | Weather App (Pakai API Cuaca) | 16 Nov 2025   | 18 Nov 2025     |
+
+---
+
+### 📝 Tips agar berhasil:
+
+* Fokus pada satu proyek per 3 hari.
+* Hari ke-1: perencanaan & struktur awal.
+* Hari ke-2: implementasi fitur utama.
+* Hari ke-3: testing & perbaikan bug.
 
 
+-------------------------------------------
 LIST PELAJARAN PHP :
 - PHP Dasar ( 25 video )
 - OOP Dasar PHP ( 17 video )
