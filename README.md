@@ -10,6 +10,7 @@ LIST PEMBELAJARAN SEMENTARA :
 - flex box ( 3 video )
 - css grid ( 8 video )
 - JS Lanjutan ( 27 video )
+  *20 OKTOBER HARI TERAKHIR*
 
 | No | Nama Project                      | Skill yang Diterapkan            |
 | -- | --------------------------------- | -------------------------------- |
