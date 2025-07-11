@@ -74,7 +74,7 @@ LIST PELAJARAN PHP :
 - codegnaiter 4 ( 16 video )
 - laravel 8 ( 24 video )
 - rest API ( 9 video )
-
+**12 MARET 2026**
 
 Hal yang harus dipelajari
 HTML
