@@ -1,7 +1,7 @@
 # rencana_keyro
 REPO INI adalah rencana saya pembelajaran konsisten saya
 LIST PEMBELAJARAN SEMENTARA :
-- CSS layouting ( 22 video )
+- CSS layouting ( 16 video )
 - CSS 3 ( 20 video )
 - Quick Tip ( 12 video )
 - JS Dasar (44 video )
@@ -10,7 +10,8 @@ LIST PEMBELAJARAN SEMENTARA :
 - flex box ( 3 video )
 - css grid ( 8 video )
 - JS Lanjutan ( 27 video )
-  *20 OKTOBER HARI TERAKHIR*
+
+  **20 OKTOBER HARI TERAKHIR**
 
 | No | Nama Project                      | Skill yang Diterapkan            |
 | -- | --------------------------------- | -------------------------------- |
