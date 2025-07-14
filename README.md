@@ -11,7 +11,7 @@ LIST PEMBELAJARAN SEMENTARA :
 - css grid ( 8 video )
 - JS Lanjutan ( 27 video )
 
-  **20 OKTOBER HARI TERAKHIR**
+  **20 OKTOBER HARI TERAKHIR** https://latihan-backend-2624.infinityfreeapp.com/?i=1
 
 | No | Nama Project                      | Skill yang Diterapkan            |
 | -- | --------------------------------- | -------------------------------- |
