@@ -77,6 +77,161 @@ LIST PELAJARAN PHP :
 - rest API ( 9 video )
 **12 MARET 2026**
 
+  Ini luar biasa banget. Kamu udah punya **struktur roadmap frontend developer yang sangat lengkap dan terarah** — mulai dari basic HTML sampai topik advance seperti PWA dan Static Site Generators. Ini levelnya udah mirip dengan roadmap profesional yang biasa dipakai di industri.
+
+Sekarang tugas kita adalah:
+✅ *Bikin strategi belajar yang fokus, efisien, tapi tetap dalam* — biar kamu **nggak cuma sekadar tahu, tapi benar-benar paham.**
+
+---
+
+## 🔥 Prinsip Utama: **"Belajar untuk menguasai, bukan mengejar cepat"**
+
+> 🚀 Kalau kamu terlalu ngebut, hasilnya bisa "tau cara pakai", tapi *blank kalau ditanya kenapa & gimana cara kerjanya*.
+
+Maka rencana kamu untuk **fokus ke frontend dulu sampai kuat ke framework** sebelum lanjut backend sangat tepat.
+
+---
+
+## ✅ Langkah Nyata yang Bisa Kamu Lakukan Sekarang
+
+### 📌 **STEP 1 – Fondasi (HTML, CSS, JS + DOM)**
+
+> ⏳ Durasi: 2-3 minggu (jika fokus per hari)
+
+* Fokus ke:
+
+  * Semantic HTML & struktur dokumen
+  * Layouting pakai Flexbox/Grid
+  * Responsive Design (media query, mobile first)
+  * JS Dasar (variabel, function, array, loop)
+  * Manipulasi DOM (event listener, classList, append/remove)
+
+🎯 Output:
+
+* Mini proyek: Landing page interaktif + validasi form + responsive
+
+---
+
+### 📌 **STEP 2 – Modern JS & API**
+
+> ⏳ Durasi: 1-2 minggu
+
+* Fokus ke:
+
+  * Modular JS (`import/export`)
+  * ES6+ syntax (arrow function, destructuring, spread, map/filter)
+  * Fetch API + Async/Await
+  * JSON & API data render ke UI
+
+🎯 Output:
+
+* Proyek kecil: Aplikasi Cuaca / To-Do List pakai API
+
+---
+
+### 📌 **STEP 3 – Git + Version Control**
+
+> ⏳ Durasi: 2 hari intens
+
+* Git init, commit, push
+* GitHub workflow
+* Branching dasar
+* Bikin repo portofolio
+
+🎯 Output:
+
+* Semua proyek kamu upload ke GitHub
+
+---
+
+### 📌 **STEP 4 – CSS Framework / Utility Class (Pilih Tailwind atau Bootstrap)**
+
+> ⏳ Durasi: 3-4 hari
+
+* Biar kamu nggak selalu styling manual dari nol
+* Belajar utility class
+* Responsive dengan framework
+
+🎯 Output:
+
+* Bikin ulang landing page sebelumnya pakai framework pilihan kamu
+
+---
+
+### 📌 **STEP 5 – Build Tool + Framework Frontend (React / Vue)**
+
+> ⏳ Durasi: 2-3 minggu (untuk dasar)
+
+* Belajar:
+
+  * Component-based
+  * Props, State
+  * Event handling
+  * Conditional render
+  * Routing
+  * Fetch API dalam framework
+  * Vite atau Webpack
+
+🎯 Output:
+
+* Proyek: Blog Viewer / Gallery API / Notes App
+
+---
+
+### 📌 **STEP 6 – Portfolio Website Interaktif (Animasi + Scroll + Showcase Project)**
+
+> ⏳ Durasi: 1-2 minggu
+
+* Gunakan semua kemampuan kamu (HTML, CSS, JS, Framework, Animasi)
+* Tambahkan:
+
+  * Scroll Animation (AOS, GSAP)
+  * Link ke semua project
+  * Form kontak
+  * Link ke GitHub
+
+🎯 Output:
+
+* Ini jadi website personal kamu!
+
+---
+
+### 📌 **STEP 7 – Lanjut Belajar Backend / API Sendiri**
+
+> Setelah kamu:
+
+* Paham cara kerja API di frontend
+* Punya project yang fetch dari API
+* Baru kamu bikin API sendiri dari backend (Laravel, Express, dsb.)
+
+---
+
+## 📁 Template Progress Checklist (Bisa Kamu Ceklist Harian)
+
+| Level | Fokus                       | Sudah? |
+| ----- | --------------------------- | ------ |
+| Basic | HTML Semantic               | ✅/❌    |
+| Basic | CSS Layout & Responsive     | ✅/❌    |
+| Basic | JS Dasar & DOM              | ✅/❌    |
+| Mid   | Fetch API & Modular JS      | ✅/❌    |
+| Mid   | Git & GitHub                | ✅/❌    |
+| Mid   | Tailwind/Bootstrap          | ✅/❌    |
+| Mid   | React/Vue Dasar             | ✅/❌    |
+| Mid   | API Integration in React    | ✅/❌    |
+| Pro   | Animasi Scroll & Transition | ✅/❌    |
+| Pro   | Portfolio Interaktif        | ✅/❌    |
+
+---
+
+## 🚀 Kalau Kamu Konsisten:
+
+Dalam **2–3 bulan**, kamu bisa punya:
+
+* 5+ project keren
+* Website portfolio yang proper
+* Skill cukup kuat untuk mulai apply kerja junior / freelance
+
+---
 ~~~ Lanjut Ke Bawah ~~~
 Hal yang harus dipelajari
 HTML
